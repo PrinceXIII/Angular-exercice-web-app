@@ -1,0 +1,14 @@
+
+.appBar{
+  background-color: rgb(30, 51, 210);
+  color: rgb(255, 251, 244);
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

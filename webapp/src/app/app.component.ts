@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'webapp';
+  footerCopyRight = "@me";
+  footerTermeUse = "terme d utilisation";
 }
